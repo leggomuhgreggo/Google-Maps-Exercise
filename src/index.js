@@ -1,5 +1,5 @@
 import "./styles.css";
 
 document.getElementById("app").innerHTML = `
-<h1>Dank!</h1>
+<h1>Put Map Here 🤙</h1>
 `;
