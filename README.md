@@ -10,7 +10,7 @@ The Google Maps API is famously not very intuitive. The docs aren’t going to g
 
 The guidelines are somewhat vague, allowing for a certain amount interpretation in how you implement, especially UX. Sometimes all those details are spelled out, and come with detailed Photoshop or Sketch designs illustrating use cases and functionality, but frequently you must rely on your own intuition on how it _should_ work
 
-I recommend using [CodeSandbox - Vanilla](https://codesandbox.io/s/vanilla) since it’s a REPL, that provides a high functioning dev environment out of the box.
+I recommend using [CodeSandbox - Vanilla](https://codesandbox.io/s/jl4n547kw9) since it’s a REPL, that provides a high functioning dev environment out of the box.
 
 CodeSandbox allows you to install and use NPM packages, which you should feel free to do if you want with the exception of google maps specific tools.
 
