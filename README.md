@@ -20,17 +20,19 @@ Of course, feel free to reach out with questions. I'll conclude these guidelines
 
 ---
 
-## Phase 1: Basic Map
+## Instructions
+
+### Phase 1: Basic Map
 
 1. Get a Google Map to render with a marker
 2. Fix console warning by getting API key through Google Developer Console
 
-## Phase 2: Markers with Tooltip
+### Phase 2: Markers with Tooltip
 
 1. Put multiple markers on the map + get the map to center around it
 2. Add the ability to click a marker and see details about it
 
-## Phase 3: Location Search
+### Phase 3: Location Search
 
 1. Add text input to search for a location with autocomplete and update the map with selected location
 2. Add ability to automatically resolve location through geolocation
