@@ -18,6 +18,8 @@ Of course, feel free to reach out with questions. I'll conclude these guidelines
 
 > Get it working, get it right, get it fast
 
+Good luck!
+
 ---
 
 ## Instructions
