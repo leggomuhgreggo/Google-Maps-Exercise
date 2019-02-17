@@ -36,7 +36,6 @@ Of course, feel free to reach out with questions. I'll conclude these guidelines
 
 1. Add text input to search for a location with autocomplete and update the map with selected location
 2. Add ability to automatically resolve location through geolocation
-3. Eject Google generated DOM elements, and use component API to get data.
 
 ### Phase 4: Find Closest Location
 
