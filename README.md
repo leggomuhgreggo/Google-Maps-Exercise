@@ -10,13 +10,15 @@ The Google Maps API is famously not very intuitive. The docs aren’t going to g
 
 The guidelines are somewhat vague, allowing for a certain amount interpretation in how you implement, especially UX. Sometimes all those details are spelled out, and come with detailed Photoshop or Sketch designs illustrating use cases and functionality, but frequently you must rely on your own intuition on how it _should_ work
 
-I recommend using [CodeSandbox - Vanilla](https://codesandbox.io/s/vanilla) since it’s a REPL, that provides a high functioning dev environment out of the box.
+I recommend forking this [CodeSandbox](https://codesandbox.io/s/jl4n547kw9) since it’s a REPL, that provides a high functioning dev environment out of the box.
 
-CodeSandbox allows you to install and use NPM packages, which you should feel free to do if you want with the exception of google maps specific tools.
+If you choose to use any NPM packages to help you, be careful that they aren't google maps specific tools.
 
 Of course, feel free to reach out with questions. I'll conclude these guidelines with a programming maxim I've always thought was helpful:
 
 > Get it working, get it right, get it fast
+
+Good luck!
 
 ---
 
@@ -36,7 +38,6 @@ Of course, feel free to reach out with questions. I'll conclude these guidelines
 
 1. Add text input to search for a location with autocomplete and update the map with selected location
 2. Add ability to automatically resolve location through geolocation
-3. Eject Google generated DOM elements, and use component API to get data.
 
 ### Phase 4: Find Closest Location
 
